@@ -2,5 +2,6 @@ Q:	What happens when you initialize a repository? Why do you need to do it?
 A:	Check the status after initializing
 
 Q: 	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-A:	For experimental changes to your code. It could help so that it doesn't interfere with normal bug fixing on the master branch.
+A:	For experimental changes to your code, bug fixes, new features, updates docs, backup. 
+	It could help so that it doesn't interfere with master branch until it's time to merge.
 
